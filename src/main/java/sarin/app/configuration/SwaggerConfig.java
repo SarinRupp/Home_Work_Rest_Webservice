@@ -40,7 +40,7 @@ public class SwaggerConfig {
                 "me@wherever.com",
                 "API License",
                 "API License URL"
-        );
+        );        
         return apiInfo;
     }
 	
